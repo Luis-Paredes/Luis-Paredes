@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Paredes.
-- 👀 I’m interested in learning programming, AI and UI/UX.
+- 👀 I’m interested in programming, AI and UI/UX.
 - 🌱 I’m currently learning Computer Technology Engineering
-- 💞️ I’m looking to collaborate on coding, AI, machine learning, websites/apps designer and AR.
+- 💞️ I’m looking to collaborate on coding, AI, machine learning, websites/apps design and AR.
 - 📫 How to reach me? E-mail: luis.kw@outlook.com or follow me on Instagram: https://www.instagram.com/luisparcru/
 
 <!---
